@@ -6,7 +6,7 @@ Displays a red crosshair at the center of the screen.
 Toggles on and off with the F3 key.
 Runs in the background without interfering with other activities.
 How to Use
-Download the executable file from the Releases page.
+Download the executable file from the Main stuff page.
 Run the app.
 Press F3 to toggle the crosshair on and off.
 My First Project
