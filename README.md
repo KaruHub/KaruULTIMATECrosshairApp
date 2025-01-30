@@ -1,6 +1,3 @@
-
-Here’s a description you can use for your GitHub project:
-
 Crosshair App
 This is my first ever made code! It's a simple, lightweight app that displays a red crosshair in the center of your screen. You can toggle it on and off with the F3 key. The app runs in the background and works globally, so it will show up even if you're doing other tasks.
 
